@@ -1,0 +1,219 @@
+[
+  {
+    "name": "Queen Margret",
+    "sex": "Female",
+    "mother": null,
+    "father": null,
+    "spouse": "King Arthur"
+  },
+  {
+    "name": "King Arthur",
+    "sex": "Male",
+    "mother": null,
+    "father": null,
+    "spouse": "Queen Margret"
+  },
+  {
+    "name": "Flora",
+    "sex": "Female",
+    "mother": null,
+    "father": null,
+    "spouse": "Bill"
+  },
+  {
+    "name": "Bill",
+    "sex": "Male",
+    "mother": "Queen Margret",
+    "father": "King Arthur",
+    "spouse": "Flora"
+  },
+  {
+    "name": "Charlie",
+    "sex": "Male",
+    "mother": "Queen Margret",
+    "father": "King Arthur",
+    "spouse": null
+  },
+  {
+    "name": "Percy",
+    "sex": "Male",
+    "mother": "Queen Margret",
+    "father": "King Arthur",
+    "spouse": "Audrey"
+  },
+  {
+    "name": "Audrey",
+    "sex": "Female",
+    "mother": null,
+    "father": null,
+    "spouse": "Bill"
+  },
+  {
+    "name": "Ronald",
+    "sex": "Male",
+    "mother": "Queen Margret",
+    "father": "King Arthur",
+    "spouse": "Audrey"
+  },
+  {
+    "name": "Helen",
+    "sex": "Female",
+    "mother": null,
+    "father": null,
+    "spouse": "Bill"
+  },
+  {
+    "name": "Ginerva",
+    "sex": "Female",
+    "mother": "Queen Margret",
+    "father": "King Arthur",
+    "spouse": "Harry"
+  },
+  {
+    "name": "Harry",
+    "sex": "Male",
+    "mother": null,
+    "father": null,
+    "spouse": "Ginerva"
+  },
+  {
+    "name": "Victoire",
+    "sex": "Female",
+    "mother": "Flora",
+    "father": "Bill",
+    "spouse": "Ted"
+  },
+  {
+    "name": "Ted",
+    "sex": "Male",
+    "mother": null,
+    "father": null,
+    "spouse": "Victoire"
+  },
+  {
+    "name": "Dominique",
+    "sex": "Female",
+    "mother": "Flora",
+    "father": "Bill",
+    "spouse": null
+  },
+  {
+    "name": "Louis",
+    "sex": "Male",
+    "mother": "Flora",
+    "father": "Bill",
+    "spouse": null
+  },
+  {
+    "name": "Molly",
+    "sex": "Female",
+    "mother": "Audrey",
+    "father": "Percy",
+    "spouse": null
+  },
+  {
+    "name": "Lucy",
+    "sex": "Female",
+    "mother": "Audrey",
+    "father": "Percy",
+    "spouse": null
+  },
+  {
+    "name": "Hugo",
+    "sex": "Male",
+    "mother": "Helen",
+    "father": "Ronald",
+    "spouse": null
+  },
+  {
+    "name": "Rose",
+    "sex": "Female",
+    "mother": "Helen",
+    "father": "Ronald",
+    "spouse": "Malfoy"
+  },
+  {
+    "name": "Malfoy",
+    "sex": "Male",
+    "mother": null,
+    "father": null,
+    "spouse": "Rose"
+  },
+  {
+    "name": "Lily",
+    "sex": "Female",
+    "mother": "Ginerva",
+    "father": "Harry",
+    "spouse": null
+  },
+  {
+    "name": "Darcy",
+    "sex": "Female",
+    "mother": null,
+    "father": null,
+    "spouse": "James"
+  },
+  {
+    "name": "James",
+    "sex": "Male",
+    "mother": "Ginerva",
+    "father": "Harry",
+    "spouse": "Darcy"
+  },
+  {
+    "name": "Alice",
+    "sex": "Female",
+    "mother": null,
+    "father": null,
+    "spouse": "Albus"
+  },
+  {
+    "name": "Albus",
+    "sex": "Male",
+    "mother": "Ginerva",
+    "father": "Harry",
+    "spouse": "Alice"
+  },
+  {
+    "name": "Remus",
+    "sex": "Male",
+    "mother": "Victoire",
+    "father": "Ted",
+    "spouse": null
+  },
+  {
+    "name": "Draco",
+    "sex": "Male",
+    "mother": "Rose",
+    "father": "Malfoy",
+    "spouse": null
+  },
+  {
+    "name": "Aster",
+    "sex": "Female",
+    "mother": "Rose",
+    "father": "Malfoy",
+    "spouse": null
+  },
+  {
+    "name": "William",
+    "sex": "Male",
+    "mother": "Darcy",
+    "father": "James",
+    "spouse": null
+  },
+  {
+    "name": "Ron",
+    "sex": "Male",
+    "mother": "Alice",
+    "father": "Albus",
+    "spouse": null
+  },
+  {
+    "name": "Ginny",
+    "sex": "Female",
+    "mother": "Alice",
+    "father": "Albus",
+    "spouse": null
+  }
+]
